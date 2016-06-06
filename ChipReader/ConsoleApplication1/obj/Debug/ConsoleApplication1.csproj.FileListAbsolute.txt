@@ -1,0 +1,12 @@
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\pcsc-sharp.dll
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\pcsc-sharp.pdb
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\pcsc-sharp.xml
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\evelan-e6540\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Evelan-E6540\Programowanie\Politechnika\UP\Czytnik\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Evelan-E6540\Programowanie\Politechnika\UP\Czytnik\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Evelan-E6540\Programowanie\Politechnika\UP\Czytnik\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
